@@ -8,6 +8,6 @@ Quickly write down your idea without wasting too much time with any complicated 
 - Quickly add, edit or remove the idea anytime as you wish
 - Work on any idea whenever you want when you are DONE with your current project/task/goal
 
-The purpose is pretty simple, keep things simple, stupid and clean. 
+The purpose is pretty simple, keep your mind fresh and clean from burden of incoming new thoughts when you are too busy and cannot sacrifice your time into working on new idea at the moment and don't want to miss the idea on the moment as well.
 
-Feel free to improve the app but just keep as simple as it can be, we don't need much complication in today's messy world.
+If you want to improve this web app, just do it, you don't need any of my permission, free for all.
