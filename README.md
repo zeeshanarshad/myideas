@@ -1,5 +1,5 @@
 # My Ideas (Clear Your Mind)
-Quickly write down your incoming new idea without wasting too much time with any complicated software or mobile app, and access it within your browser without internet.
+Quickly write down your incoming new ideas without wasting too much time with any complicated software or mobile app, and access it within your browser without internet.
 
 # The Benefits
 
